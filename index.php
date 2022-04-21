@@ -18,7 +18,7 @@
          body {
             padding-top: 40px;
             padding-bottom: 40px;
-            background-color: #ADABAB;
+            background-color: #0000FF;
          }
          
          .form-signin {
@@ -75,7 +75,7 @@
 	
    <body>
       
-      <h2>Enter Username and Password</h2> 
+      <h2>Ingrese su usuario y contraseña</h2> 
       <div class = "container form-signin">
          
          <?php
